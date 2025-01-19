@@ -1,0 +1,6 @@
+
+hello
+how are you
+just a git tutorial
+bye then
+
